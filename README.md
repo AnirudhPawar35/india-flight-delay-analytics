@@ -314,13 +314,13 @@ Machine learning predictions should support operational decisions rather than au
 india-flight-delay-analytics/
 │
 ├── dashboards/
-│   ├── powerbi/
-│   │   ├── India_Flight_Delay_Analytics.pbix
-│   │   └── README.md
-│   │
-│   └── tableau/
-│       ├── India_Flight_Delay_Analytics.twbx
-│       └── .gitkeep
+│   └── powerbi/
+│       ├── India_Flight_Delay_Analytics.pbix
+│       └── README.md
+│
+├── tableau/
+│   ├── India_Flight_Delay_Analytics.twbx
+│   └── .gitkeep
 │
 ├── docs/
 │   └── Business_Requirements_Document.md
@@ -329,7 +329,6 @@ india-flight-delay-analytics/
 ├── India_Flight_Delay_ML_Analysis.ipynb
 ├── flight_delay_analysis.sql
 └── README.md
-
 # 🚀 End-to-End Workflow
 
 Business Problem
