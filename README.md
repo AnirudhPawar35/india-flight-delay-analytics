@@ -309,8 +309,10 @@ Machine learning predictions should support operational decisions rather than au
 
 ---
 
-# 📁 Project Structure
 
+## 📁 Project Structure
+
+```text
 india-flight-delay-analytics/
 │
 ├── dashboards/
@@ -329,8 +331,10 @@ india-flight-delay-analytics/
 ├── India_Flight_Delay_ML_Analysis.ipynb
 ├── flight_delay_analysis.sql
 └── README.md
+```
 # 🚀 End-to-End Workflow
 
+```text
 Business Problem
        ↓
 Business Requirements
@@ -354,6 +358,7 @@ Machine Learning
 Delay Risk Classification
        ↓
 Business Recommendations
+```
 
 👨‍💼 Skills Demonstrated
 
