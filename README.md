@@ -212,9 +212,9 @@ Weather-related variables showed comparatively smaller predictive importance in 
 
 ---
 
-# 📊 Dashboards
+## 📊 Dashboards
 
-## Power BI — Executive Operational Dashboard
+### Power BI — Executive Operational Dashboard
 
 The Power BI dashboard focuses on management-level monitoring and includes:
 
@@ -232,7 +232,24 @@ The Power BI dashboard focuses on management-level monitoring and includes:
 - High-Volume Route Analysis
 - Interactive filters
 
+📥 **[View / Download Power BI Dashboard](dashboards/powerbi/India_Flight_Delay_Analytics.pbix)**
+
 ---
+
+### Tableau — Analytical Dashboard
+
+The Tableau dashboard provides deeper analytical exploration through:
+
+- Delay Rate by Airline
+- Congestion Level vs Delay Rate
+- Turnaround Risk vs Delay Rate
+- Monthly Delay Rate Trend
+- Airport Delay Rate
+- Delay Rate by Weather
+- High-Volume Route Analysis
+- Interactive filters for Airline, Airport, Weather, Congestion, and Turnaround Risk
+
+📥 **[View / Download Tableau Dashboard](tableau/India_Flight_Delay_Analytics.twbx)**
 
 ## Tableau — Analytical Dashboard
 
